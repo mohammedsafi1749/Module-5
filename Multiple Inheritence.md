@@ -24,6 +24,27 @@ To write a Python program to calculate **Add, Sub & Division** using **Multiple 
    - Display the results of the three operations.
 
 ## 💻 Program 
-Add code here
+
+    class optimus:
+        def __init__(self, a, b):
+            self.a = a
+            self.b = b
+        
+    class megatron(optimus):
+        def __init__(slef, a, b):
+            super().__init__(a,b)
+            print(a+b)
+            print(a-b)
+            print(a*b)
+            
+    num1 = int(input())
+    num2 = int(input())
+
+    obj = megatron(num1, num2)
+
 ## Output Example
 
+<img width="1123" height="204" alt="image" src="https://github.com/user-attachments/assets/f8387a3b-1e1c-4f09-be79-ee5a531edcc0" />
+
+##Result
+The program executed successfully.
