@@ -46,5 +46,6 @@ To write a Python program to calculate **Add, Sub & Division** using **Multiple 
 
 <img width="1123" height="204" alt="image" src="https://github.com/user-attachments/assets/f8387a3b-1e1c-4f09-be79-ee5a531edcc0" />
 
-##Result
+## Result
+
 The program executed successfully.
